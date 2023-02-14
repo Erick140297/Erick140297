@@ -23,7 +23,6 @@
 <img align="center" style="margin: 20px " src="https://github-readme-streak-stats.herokuapp.com/?user=Erick140297&&theme=tokyonight" alt="erick monterrubio" />
 
 <img align="center" style="margin: 20px " src="https://github-readme-stats.vercel.app/api?username=Erick140297&show_icons=true&locale=en&theme=tokyonight" alt="erick monterrubio" />
-<br>
 
 <img align="center" style="margin: 20px "  src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick140297&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erick monterrubio" />
 
