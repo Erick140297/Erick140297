@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick Monterrubio</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
-
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" alt="@carlose61162555"  />
 - 🔭 I’m currently working on **Invitaciones**
 
 - 🌱 I’m currently learning **Frameworks and courses of javascript**
