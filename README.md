@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Express and mongoose**
 
-- 📫 How to reach me **erickmonterrubio67@gmail.com**
+- 📫 How to reach me **erickmonterrubio67@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
